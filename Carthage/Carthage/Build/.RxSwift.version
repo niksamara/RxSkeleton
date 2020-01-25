@@ -1,0 +1,106 @@
+{
+  "Mac" : [
+    {
+      "name" : "RxRelay",
+      "hash" : "dc59f4d587b32482008fde0575d03fdd718a752e29aa605ed9222f27b938d956",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    },
+    {
+      "name" : "RxBlocking",
+      "hash" : "5e15211b1faf5f8c5f69ed326509ac2afcf2c31e3db7b4905a75d30cf3c014f9",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    },
+    {
+      "name" : "RxCocoa",
+      "hash" : "6647a6b203b397072f9842e5e94982afc5c9c351d11a53ea6fa4a42604378e41",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    },
+    {
+      "name" : "RxTest",
+      "hash" : "7feaeec0b0ab5490b42b30d8f41dd6ea3fa164a18b434cd45c16e9da5f732005",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    },
+    {
+      "name" : "RxSwift",
+      "hash" : "881b2a6f405ed19ac3312a7b6e05430dec251d1c817d73e141da63e604391bde",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "RxRelay",
+      "hash" : "6581b1ca7dd279d7c4ba988741776163c97107fd1a70ac060c49b619aa5463ac",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    },
+    {
+      "name" : "RxBlocking",
+      "hash" : "03e5109c982855021a6f871bbe79978e7e9e25fdda633932651fa79ee8dc8b3f",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    },
+    {
+      "name" : "RxCocoa",
+      "hash" : "a1183bf29b4a1ffc182095680855c0cff7b235032a9f1b88574acb2424898404",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    },
+    {
+      "name" : "RxSwift",
+      "hash" : "c10196193086a4b5fadcbb30dde1f5d2c4f166fba05bb838fda2eb77d31da19f",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "RxRelay",
+      "hash" : "ff3561dffe8cce876cc68c4ed543ef3a61dfdc862fecd8e219b3ca130ed6d71a",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    },
+    {
+      "name" : "RxBlocking",
+      "hash" : "20991bf4fe72cd79e37d18d76e57154d1e626423959d29c426e3aa4b478c43ad",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    },
+    {
+      "name" : "RxTest",
+      "hash" : "be031f9a0a72eed63e035b2f6a5b25c1a6d1424be0f5625af96bf15ea2eeeb31",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    },
+    {
+      "name" : "RxCocoa",
+      "hash" : "c99285307d2b1a7c1c375bdbb2aa1e9a3420982fc67d9c1d4b96069fd268f437",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    },
+    {
+      "name" : "RxSwift",
+      "hash" : "72be09e140341feee4ee94f80d745bb5a34f3b30163fa2d213553fb944c38312",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ],
+  "commitish" : "5.0.1",
+  "iOS" : [
+    {
+      "name" : "RxRelay",
+      "hash" : "bd4a09c756cf44f14778ef15503f935a34511a9a00c8406e693f23eba13db85a",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    },
+    {
+      "name" : "RxBlocking",
+      "hash" : "a316abec3130971232ec795db88ee547fc8ea13823c416b0e5f16603022a6692",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    },
+    {
+      "name" : "RxTest",
+      "hash" : "876af290e6c481bee2e123a2e1a6d559817b67e1a952123e5b8b40e55d38b01f",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    },
+    {
+      "name" : "RxCocoa",
+      "hash" : "126b1d45bc792ae94205d3cfd5cd6f4f60d7257c7b9895a829b89fcd5e7d8f62",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    },
+    {
+      "name" : "RxSwift",
+      "hash" : "5426c884138d984cf16aad16cafb272feda81852a1b5d5019fc16d5e65133a2e",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ]
+}
