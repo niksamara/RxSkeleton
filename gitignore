@@ -3,4 +3,5 @@
 /*.xcodeproj
 **/xcuserdata
 **/xcshareddata
-Carthage/Carthage/
+Carthage/Carthage
+Carthage/Build
