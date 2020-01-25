@@ -118,9 +118,9 @@ ___swift_reflection_version
 _$sSo6UIViewC12SkeletonViewE6StatusON
 Apple clang version 11.0.0 (clang-1100.0.33.15)
 <swift-imported-modules>
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView
 Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Extensions/UIView+Extension.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Extensions/UIView+Extension.swift
 $sSo6UIViewC12SkeletonViewE6StatusOSHACSQWb
 <compiler-generated>
 $sSo6UIViewC12SkeletonViewE6StatusOAESQACWl
@@ -207,7 +207,7 @@ _$sSayxG12SkeletonView9RecursiveA2B15IterableElementRzlMc
 _$s12SkeletonView9RecursiveTL
 _$s12SkeletonView9RecursiveP7ElementAC_AA08IterableD0Tn
 _$s7Element12SkeletonView9RecursivePTl
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Helpers/RecursiveProtocol.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Helpers/RecursiveProtocol.swift
 $sSayxG12SkeletonView9RecursiveA2B15IterableElementRzl0E0_AbDPWT
 _$sSo7UILabelC12SkeletonViewE19lastLineFillPercentSivgTo
 _$sSo7UILabelC12SkeletonViewE19lastLineFillPercentSivsTo
@@ -225,7 +225,7 @@ _$sSo7UILabelC12SkeletonView21ContainsMultilineTextACMc
 _$sSo7UILabelC12SkeletonView21ContainsMultilineTextACWP
 _$s12SkeletonView21ContainsMultilineTextMp
 _objc_categories
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Multilines/UILabel+Multiline.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Multilines/UILabel+Multiline.swift
 $sSiSLsSL1loiySbx_xtFZTW
 multilineCornerRadius.get
 lastLineFillingPercent.get
@@ -279,7 +279,7 @@ _symbolic So7UILabelCSgXw
 _block_descriptor.12
 _symbolic So6UIViewCSgXw
 _block_descriptor.18
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Helpers/PrepareForSkeletonProtocol.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Helpers/PrepareForSkeletonProtocol.swift
 $sSo6UIViewC12SkeletonViewE07preparec3ForB0yyFyycfU_TA
 $sSo7UILabelC12SkeletonViewE07preparec3ForB0yyFyycfU_TA
 $sSo10UITextViewC08SkeletonB0E07prepareb3ForC0yyFyycfU_TA
@@ -296,7 +296,7 @@ $sSo6UIViewC12SkeletonViewE07preparec3ForB0yyFyycfU_
 $sSo7UILabelC12SkeletonViewE07preparec3ForB0yyFyycfU_
 _symbolic $s12SkeletonView0A12ReusableCellP
 _$s12SkeletonView0A12ReusableCell_pMF
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/Generics/SkeletonReusableCell.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/Generics/SkeletonReusableCell.swift
 _$s12SkeletonView0A4TypeO14layerAnimationySo11CAAnimationCSo7CALayerCcvgAfHcfU_
 _$s12SkeletonView0A4TypeO14layerAnimationySo11CAAnimationCSo7CALayerCcvgAfHcfU0_
 _$s12SkeletonView0A4TypeOSQAASQ2eeoiySbx_xtFZTW
@@ -349,7 +349,7 @@ _$s12SkeletonView0A5LayerVMf
 _symbolic 12SkeletonView0A5LayerV
 _symbolic So7CALayerC
 _$s12SkeletonView0A5LayerVMF
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/SkeletonLayer.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/SkeletonLayer.swift
 $s12SkeletonView0A5LayerVMa
 $s12SkeletonView0A5LayerVwst
 $s12SkeletonView0A5LayerVwet
@@ -394,7 +394,7 @@ _$sSSSgWOe
 _$sSo6UIViewCmML
 _$sS2iSzsWL
 _$ss23_ContiguousArrayStorageCyypGML
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Debug/SkeletonDebug.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Debug/SkeletonDebug.swift
 skeletonLog
 _allocateUninitializedArray
 $sSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZyp_Tg5
@@ -458,7 +458,7 @@ _symbolic $s12SkeletonView010CollectionA0P
 _$s12SkeletonView010CollectionA0_pMF
 _$s12SkeletonView010CollectionA0Mp
 _$s12SkeletonView010CollectionA0TL
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/CollectionSkeletonProtocol.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/CollectionSkeletonProtocol.swift
 enableUserInteraction
 disableUserInteraction
 $s12SkeletonView24CollectionAssociatedKeysO15dummyDataSourceSSvau
@@ -513,7 +513,7 @@ _$s12SkeletonView011RecoverableB5StateVMF
 _$s12SkeletonView011RecoverableB5StateVN
 _$s12SkeletonView015RecoverableTextB5StateVN
 _$s12SkeletonView016RecoverableImageB5StateVN
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Recoverable/RecoverableViewState.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Recoverable/RecoverableViewState.swift
 $s12SkeletonView016RecoverableImageB5StateVMa
 $s12SkeletonView016RecoverableImageB5StateVwst
 $s12SkeletonView016RecoverableImageB5StateVwet
@@ -553,7 +553,7 @@ l_OBJC_LABEL_PROTOCOL_$_NSObject
 l_OBJC_PROTOCOL_REFERENCE_$_NSObject
 l_OBJC_LABEL_PROTOCOL_$_UIScrollViewDelegate
 l_OBJC_PROTOCOL_REFERENCE_$_UIScrollViewDelegate
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/TableViews/SkeletonTableViewProtocols.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/TableViews/SkeletonTableViewProtocols.swift
 collectionSkeletonView
 numSections
 estimatedNumberOfRows.get
@@ -570,7 +570,7 @@ _$s12SkeletonView0A15TransitionStyleOMf
 _symbolic _____ 12SkeletonView0A15TransitionStyleO
 _symbolic Sd
 _$s12SkeletonView0A15TransitionStyleOMF
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Transitions/SkeletonTransitionStyle.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Transitions/SkeletonTransitionStyle.swift
 $s12SkeletonView0A15TransitionStyleOMa
 $s12SkeletonView0A15TransitionStyleOwui
 $s12SkeletonView0A15TransitionStyleOwup
@@ -593,7 +593,7 @@ _$sSo11UITableViewC08SkeletonB0010CollectionC0ACWP
 _$s12SkeletonView0A20CollectionDataSourceC013originalTablebdE0AA0agbdE0_pSgvpWvd
 _$s12SkeletonView0A20CollectionDataSourceC9rowHeight12CoreGraphics7CGFloatVvpWvd
 _$s12SkeletonView0A20CollectionDataSourceC08originalcbdE0AA0acbdE0_pSgvpWvd
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/TableViews/UITableView+CollectionSkeleton.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/TableViews/UITableView+CollectionSkeleton.swift
 __swift_project_boxed_opaque_existential_0
 $sypWOb
 $sypSgWOc
@@ -614,7 +614,7 @@ _$sSo6UIViewC12SkeletonViewE29removeDummyDataSourceIfNeeded11reloadAfterySb_tF
 _$s12SkeletonView010CollectionA0_pSgWOh
 _$s12SkeletonView010CollectionA0_pWOb
 _$s12SkeletonView010CollectionA0_pML
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/UIView+CollectionSkeleton.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/UIView+CollectionSkeleton.swift
 $s12SkeletonView010CollectionA0_pWOb
 $s12SkeletonView010CollectionA0_pSgWOh
 removeDummyDataSourceIfNeeded
@@ -658,7 +658,7 @@ _$s12SkeletonView0A21MultilineLayerBuilderC15setCornerRadiusyACSiFTq
 _$s12SkeletonView0A21MultilineLayerBuilderC5buildSo7CALayerCSgyFTq
 _$s12SkeletonView0A21MultilineLayerBuilderCACycfCTq
 _$s12SkeletonView0A21MultilineLayerBuilderCN
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Builders/SkeletonMultilineLayerBuilder.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Builders/SkeletonMultilineLayerBuilder.swift
 $s12SkeletonView0A21MultilineLayerBuilderCMa
 deinit
 _$s12SkeletonView0A18CollectionDelegateCACycfcTo
@@ -688,7 +688,7 @@ _$s12SkeletonView0A18CollectionDelegateC08originalcbD0AA0acbD0_pSgvMTq
 _$s12SkeletonView0A18CollectionDelegateC05tablebD0010collectionbD0AcA0a5TablebD0_pSg_AA0acbD0_pSgtcfCTq
 _$s12SkeletonView0A18CollectionDelegateCN
 _OBJC_CLASS_$__TtC12SkeletonView26SkeletonCollectionDelegate
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/SkeletonCollectionDelegate.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/SkeletonCollectionDelegate.swift
 $s12SkeletonView0a10CollectionB8Delegate_pSgXwWOh
 $s12SkeletonView0A18CollectionDelegateCMa
 $ss25_unimplementedInitializer9className04initD04file4line6columns5NeverOs12StaticStringV_A2JS2utFySRys5UInt8VGXEfU0_
@@ -746,7 +746,7 @@ _block_descriptor.15
 _symbolic So6UIViewCSgXwz_Xx
 _block_descriptor.24
 _$s12SkeletonView11RecoverableTL
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Recoverable/Recoverable.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Recoverable/Recoverable.swift
 $sSo6UIViewC12SkeletonViewE07recoverC5State6forcedySb_tFyycfU_Tf4nxn_n
 ==
 $sSo8NSObjectCSQ10ObjectiveCSQ2eeoiySbx_xtFZTW
@@ -833,7 +833,7 @@ _$sSo17OS_dispatch_queueCML
 _$s8Dispatch0A13WorkItemFlagsVACs10SetAlgebraAAWL
 _$sSay8Dispatch0A13WorkItemFlagsVGML
 _$sSay8Dispatch0A13WorkItemFlagsVGSayxGSTsWL
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/SkeletonView.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/SkeletonView.swift
 $sSo6UIViewC12SkeletonViewE21swizzleLayoutSubviews33_E3334C2BEC39E9FFDCF4570209E5C62ELLyyFyycfU_TA
 $sSo6UIViewC12SkeletonViewE21swizzleLayoutSubviews33_E3334C2BEC39E9FFDCF4570209E5C62ELLyyFyycfU_
 once
@@ -1034,7 +1034,7 @@ _$s12SkeletonView0A11FlowHandlerC24willBeginHidingSkeletons04rootB0ySo6UIViewC_t
 _$s12SkeletonView0A11FlowHandlerC16didHideSkeletons04rootB0ySo6UIViewC_tFTq
 _$s12SkeletonView0A11FlowHandlerCACycfCTq
 _$s12SkeletonView0A11FlowHandlerCN
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/SkeletonFlow.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/SkeletonFlow.swift
 $s12SkeletonView0A11FlowHandlerCMa
 _$s12SkeletonView0A20CollectionDataSourceCACycfcTo
 _$s12SkeletonView0A20CollectionDataSourceCfD
@@ -1076,7 +1076,7 @@ _$s12SkeletonView0A20CollectionDataSourceC9rowHeight12CoreGraphics7CGFloatVvsTq
 _$s12SkeletonView0A20CollectionDataSourceC9rowHeight12CoreGraphics7CGFloatVvMTq
 _$s12SkeletonView0A20CollectionDataSourceCN
 _OBJC_CLASS_$__TtC12SkeletonView28SkeletonCollectionDataSource
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/SkeletonCollectionDataSource.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/SkeletonCollectionDataSource.swift
 $s12SkeletonView0a10CollectionB10DataSource_pSgXwWOh
 collectionView
 originalCollectionViewDataSource.get
@@ -1102,7 +1102,7 @@ _$sSo16UICollectionViewC08SkeletonB0010CollectionC0ACWP
 _$sSo16UICollectionViewC08SkeletonB0017GenericCollectionB0ACMc
 _$sSo16UICollectionViewC08SkeletonB0017GenericCollectionB0ACWP
 _$s12SkeletonView017GenericCollectionB0Mp
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/CollectionViews/UICollectionView+CollectionSkeleton.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/CollectionViews/UICollectionView+CollectionSkeleton.swift
 $sSbIegy_SbIeyBy_TR
 $sSo16UICollectionViewC08SkeletonB0E07prepareC010completionyySbc_tFySbcfU0_TA
 $sSo16UICollectionViewC08SkeletonB0E07prepareC010completionyySbc_tFySbcfU0_
@@ -1116,7 +1116,7 @@ prepareSkeleton
 _$sSo6UIViewC12SkeletonViewE14isSkeletonableSbvgTo
 _$sSo6UIViewC12SkeletonViewE14isSkeletonableSbvsTo
 _$sSo6UIViewC12SkeletonViewE12skeletonable33_A2466952ACD0273E7F1E8C782A539469LLSbSgvg
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Extensions/UIView+IBInspectable.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Extensions/UIView+IBInspectable.swift
 skeletonable.get
 isSkeletonable.set
 skeletonable.set
@@ -1135,7 +1135,7 @@ _$sSo6UIViewC12SkeletonViewE21appDidEnterBackgroundyyFTo
 _$sSo6UIViewC12SkeletonViewE25willTerminateNotificationyyFTo
 _$sSo6UIViewC12SkeletonViewE9ConstantsO25willTerminateNotificationSo18NSNotificationNameavpZ
 _$sSo6UIViewC12SkeletonViewE9ConstantsO012needAnimatedB3KeySSvpZ
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Extensions/UIView+UIApplicationDelegate.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Extensions/UIView+UIApplicationDelegate.swift
 willTerminateNotification
 appDidEnterBackground
 $sSo6UIViewC12SkeletonViewE9ConstantsO012needAnimatedB3KeySSvG
@@ -1151,7 +1151,7 @@ _$ss20_ArrayBufferProtocolPsE22_arrayOutOfPlaceUpdateyys011_ContiguousaB0Vy7Elem
 _$sSo17OS_dispatch_queueC12SkeletonViewE12_onceTracker33_EAFB9A07352AAC7A3A900DDFE8A4B08FLLSaySSGvpZ
 _$sSo17OS_dispatch_queueCmML
 _$ss23_ContiguousArrayStorageCySSGML
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Helpers/Swizzling.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Helpers/Swizzling.swift
 contains
 $sSTsE8contains5whereS2b7ElementQzKXE_tKFSaySSG_Tg5
 $ss16IndexingIteratorVyxGStsSt4next7ElementQzSgyFTWSaySSG_Tg5
@@ -1227,7 +1227,7 @@ _$ss22_ContiguousArrayBufferV24storesOnlyElementsOfTypeySbqd__mlFSo15UITableView
 _$sSo20UICollectionViewCellC08SkeletonB0E010subviewsToD0SaySo6UIViewCGvgTo
 _$sSo15UITableViewCellCML
 _$ss23_ContiguousArrayStorageCySo6UIViewCGML
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/SubviewsSkeletonables.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/SubviewsSkeletonables.swift
 $ss22_ContiguousArrayBufferV24storesOnlyElementsOfTypeySbqd__mlFSo15UITableViewCellC_So6UIViewCTg5Tf4dn_n
 $sSksSx5IndexRpzSnyABG7IndicesRtzSiAA_6StrideRTzrlE5index5afterA2B_tFs22_ContiguousArrayBufferVySo15UITableViewCellCG_Tg5
 $ss22_ContiguousArrayBufferVyxGSlsSl20_failEarlyRangeCheck_6boundsy5IndexQz_SnyAGGtFTWSo15UITableViewCellC_Tg5
@@ -1313,7 +1313,7 @@ _symbolic _____ 12SkeletonView0A16AnimationBuilderC
 _$s12SkeletonView0A16AnimationBuilderCMF
 _$ss23_ContiguousArrayStorageCySo11CAAnimationCGML
 _$sSo11CAAnimationCML
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/SkeletonAnimationBuilder.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/SkeletonAnimationBuilder.swift
 $s12SkeletonView17GradientDirectionOMa
 $s12SkeletonView17GradientDirectionOwui
 $s12SkeletonView17GradientDirectionOwup
@@ -1348,7 +1348,7 @@ _$ss12_ArrayBufferV19_getElementSlowPathyyXlSiFSo18NSLayoutConstraintC_Tg5
 _$sSo18NSLayoutConstraintCML
 _$ss23_ContiguousArrayStorageCySo18NSLayoutConstraintCGML
 _$sSo18NSLayoutConstraintCmML
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Extensions/UIView+Frame.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Extensions/UIView+Frame.swift
 $ss12_ArrayBufferV19_getElementSlowPathyyXlSiFSo18NSLayoutConstraintC_Tg5
 $ss22_ContiguousArrayBufferV5countSivgSo18NSLayoutConstraintC_Tg5
 $ss12_ArrayBufferV7_natives011_ContiguousaB0VyxGvgSo18NSLayoutConstraintC_Tg5
@@ -1495,7 +1495,7 @@ _$s12SkeletonView0aB10AppearanceC21multilineCornerRadiusSivsTq
 _$s12SkeletonView0aB10AppearanceC21multilineCornerRadiusSivMTq
 _$s12SkeletonView0aB10AppearanceCACycfCTq
 _$s12SkeletonView0aB10AppearanceCN
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Appearance/SkeletonAppearance.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Appearance/SkeletonAppearance.swift
 multilineCornerRadius.modify
 multilineLastLineFillPercent.modify
 multilineLastLineFillPercent.set
@@ -1537,7 +1537,7 @@ _$sSo10UITextViewC08SkeletonB021ContainsMultilineTextA2cDP22lastLineFillingPerce
 _$sSo10UITextViewC08SkeletonB021ContainsMultilineTextA2cDP21multilineCornerRadiusSivgTW
 _$sSo10UITextViewC08SkeletonB021ContainsMultilineTextACMc
 _$sSo10UITextViewC08SkeletonB021ContainsMultilineTextACWP
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Multilines/UITextView+Multiline.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Multilines/UITextView+Multiline.swift
 $sSo10UITextViewC08SkeletonB0E17linesCornerRadiusSivsTo
 $sSo10UITextViewC08SkeletonB0E17linesCornerRadiusSivgTo
 $sSo10UITextViewC08SkeletonB0E19lastLineFillPercentSivsTo
@@ -1605,7 +1605,7 @@ _$sSo7UIColorC12SkeletonViewE7pumpkinABvMZ.resume.0
 _$sSo7UIColorC12SkeletonViewE11pomegranateABvMZ.resume.0
 _$sSo7UIColorC12SkeletonViewE6silverABvMZ.resume.0
 _$sSo7UIColorC12SkeletonViewE8asbestosABvMZ.resume.0
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Extensions/UIColor+Skeleton.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Extensions/UIColor+Skeleton.swift
 $sSus18AdditiveArithmeticssAAP1soiyxx_xtFZTW
 $sSus18AdditiveArithmeticssAAP1poiyxx_xtFZTW
 $sSuSjsSj1moiyxx_xtFZTW
@@ -1702,19 +1702,19 @@ $ss12_ArrayBufferV7_natives011_ContiguousaB0VyxGvg12CoreGraphics7CGFloatV_Tg5
 _symbolic $s12SkeletonView017GenericCollectionB0P
 _$s12SkeletonView017GenericCollectionB0_pMF
 _$s12SkeletonView017GenericCollectionB0TL
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/Generics/GenericCollectionView.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/Generics/GenericCollectionView.swift
 _symbolic $s12SkeletonView0a10CollectionB10DataSourceP
 _$s12SkeletonView0a10CollectionB10DataSource_pMF
 _symbolic $s12SkeletonView0a10CollectionB8DelegateP
 _$s12SkeletonView0a10CollectionB8Delegate_pMF
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/CollectionViews/SkeletonCollectionViewProtocols.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Collections/CollectionViews/SkeletonCollectionViewProtocols.swift
 Sources/Collections/CollectionViews/UICollectionView+CollectionSkeleton.swift
 _$sSo8NSObjectC12SkeletonView17AssociatedObjectsACMc
 _$sSo8NSObjectC12SkeletonView17AssociatedObjectsACWP
 _symbolic $s12SkeletonView17AssociatedObjectsP
 _$s12SkeletonView17AssociatedObjects_pMF
 _$s12SkeletonView17AssociatedObjectsMp
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Helpers/AssociationPolicy.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Helpers/AssociationPolicy.swift
 _$s12SkeletonView0A12LayerBuilderCfD
 _$s12SkeletonView0A12LayerBuilderC12skeletonTypeAA0aF0OSgvpWvd
 _$s12SkeletonView0A12LayerBuilderC6colorsSaySo7UIColorCGvpWvd
@@ -1743,9 +1743,9 @@ _$s12SkeletonView0A12LayerBuilderC9setHolderyACSo6UIViewCFTq
 _$s12SkeletonView0A12LayerBuilderC5buildAA0aC0VSgyFTq
 _$s12SkeletonView0A12LayerBuilderCACycfCTq
 _$s12SkeletonView0A12LayerBuilderCN
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Builders/SkeletonLayerBuilder.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Builders/SkeletonLayerBuilder.swift
 $s12SkeletonView0A12LayerBuilderCMa
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Extensions/Int+Whitespaces.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Extensions/Int+Whitespaces.swift
 _$s12SkeletonView0A6ConfigVwCP
 _$s12SkeletonView0A6ConfigVwxx
 _$s12SkeletonView0A6ConfigVwcp
@@ -1763,7 +1763,7 @@ _symbolic 12SkeletonView17GradientDirectionOSg
 _symbolic So11CAAnimationCSo7CALayerCcSg
 _symbolic 12SkeletonView0A15TransitionStyleO
 _$s12SkeletonView0A6ConfigVMF
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/SkeletonConfig.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/SkeletonConfig.swift
 $s12SkeletonView0A6ConfigVMa
 $s12SkeletonView0A6ConfigVwst
 $s12SkeletonView0A6ConfigVwet
@@ -1778,7 +1778,7 @@ _$s12SkeletonView23MultilineAssociatedKeysO21multilineCornerRadiusSSvau
 _symbolic $s12SkeletonView21ContainsMultilineTextP
 _$s12SkeletonView21ContainsMultilineText_pMF
 _$s12SkeletonView21ContainsMultilineTextTL
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Multilines/ContainsMultilineText.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Multilines/ContainsMultilineText.swift
 $s12SkeletonView23MultilineAssociatedKeysO21multilineCornerRadiusSSvau
 $s12SkeletonView23MultilineAssociatedKeysO22lastLineFillingPercentSSvau
 _$sSo7CALayerC12SkeletonViewE4tint10withColorsySaySo7UIColorCG_tF
@@ -1841,7 +1841,7 @@ _block_descriptor.21
 _block_descriptor.27
 _block_descriptor.34
 _block_descriptor.37
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Extensions/CALayer+Extensions.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Extensions/CALayer+Extensions.swift
 $sSo7CALayerC12SkeletonViewE10setOpacity4from2to8duration10completionySi_SiSdyycSgtFyycfU0_TA
 $sSo7CALayerC12SkeletonViewE13playAnimation_3key10completionySo11CAAnimationCABXE_SSyycSgtFyyXEfU_yycfU0_TA
 $sypWOc
@@ -1985,10 +1985,10 @@ pulse.get
 _$s12SkeletonView0A8GradientVMf
 _symbolic _____ 12SkeletonView0A8GradientV
 _$s12SkeletonView0A8GradientVMF
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/SkeletonGradient.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/SkeletonGradient.swift
 $s12SkeletonView0A8GradientVMa
 colors.get
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Transitions/UIView+Transitions.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/SkeletonView/Sources/Transitions/UIView+Transitions.swift
 Apple clang version 11.0.0 (clang-1100.0.33.16)
 /Users/pepe/Library/Caches/org.carthage.CarthageKit/DerivedData/11.3_11C29/SkeletonView/1.8.2/Build/Intermediates.noindex/ArchiveIntermediates/SkeletonView-tvOS/IntermediateBuildFilesPath/SkeletonView.build/Release-appletvos/SkeletonView-tvOS.build/DerivedSources/SkeletonView_vers.c
 _swift_getFunctionReplacement50

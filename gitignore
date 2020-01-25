@@ -4,5 +4,4 @@
 **/xcuserdata
 **/xcshareddata
 Carthage/Carthage
-Carthage/Build
 Carthage/Cartfile.resolved

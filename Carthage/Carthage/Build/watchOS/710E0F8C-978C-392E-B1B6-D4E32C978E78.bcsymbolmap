@@ -241,9 +241,9 @@ _$s14Differentiator4DiffO9EditEvent33_D199D3FBF4B7CA3AFA95223EE09B4772LLOSQAAMc
 ___swift_reflection_version
 Apple clang version 11.0.0 (clang-1100.0.33.15)
 <swift-imported-modules>
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources
 Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/Diff.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/Diff.swift
 $s14Differentiator4DiffO9EditEvent33_D199D3FBF4B7CA3AFA95223EE09B4772LLOSHAASQWb
 <compiler-generated>
 $s14Differentiator4DiffO9EditEvent33_D199D3FBF4B7CA3AFA95223EE09B4772LLOAFSQAAWl
@@ -651,8 +651,8 @@ $s14Differentiator4DiffO5ErrorOWOc
 _symbolic $s14Differentiator26AnimatableSectionModelTypeP
 _$s14Differentiator26AnimatableSectionModelType_pMF
 _symbolic 4Item14Differentiator16SectionModelTypePQz
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/AnimatableSectionModelType.swift
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/Optional+Extensions.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/AnimatableSectionModelType.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/Optional+Extensions.swift
 _$s14Differentiator17IdentifiableValueVyxGAA0B4TypeA2aEP8identity8IdentityQzvgTW
 _$s14Differentiator17IdentifiableValueVyxGSQAASQ2eeoiySbx_xtFZTW
 _$s14Differentiator17IdentifiableValueVyxGAA0B4TypeAA8Identity_SHWT
@@ -678,7 +678,7 @@ _$s14Differentiator17IdentifiableValueVMF
 _symbolic 14Differentiator17IdentifiableValueV
 _symbolic $s14Differentiator16IdentifiableTypeP
 _$s14Differentiator17IdentifiableValueVyxGAA0B4TypeAAMA
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/IdentifiableValue.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/IdentifiableValue.swift
 $s14Differentiator17IdentifiableValueVMa
 $s14Differentiator17IdentifiableValueVwst
 $s14Differentiator17IdentifiableValueVwet
@@ -724,7 +724,7 @@ _$s14Differentiator12SectionModelVMF
 _symbolic 14Differentiator12SectionModelV
 _symbolic $s14Differentiator16SectionModelTypeP
 _$s14Differentiator12SectionModelVyxq_GAA0bC4TypeAAMA
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/SectionModel.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/SectionModel.swift
 $s14Differentiator12SectionModelVwst
 $s14Differentiator12SectionModelVwet
 $s14Differentiator12SectionModelVwta
@@ -746,9 +746,9 @@ model.set
 model.get
 _$s14Differentiator16IdentifiableType_pMF
 _symbolic 8Identity_____Qz 14Differentiator16IdentifiableTypeP
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/IdentifiableType.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/IdentifiableType.swift
 _$s14Differentiator16SectionModelType_pMF
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/SectionModelType.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/SectionModelType.swift
 _$s14Differentiator0A5ErrorOwCP
 _$s14Differentiator0A5ErrorOwxx
 _$s14Differentiator0A5ErrorOwcp
@@ -772,7 +772,7 @@ _$s14Differentiator0A5ErrorOMf
 _symbolic 14Differentiator0A5ErrorO
 _symbolic SS7message_t
 _$s14Differentiator0A5ErrorOMF
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/Utilities.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/Utilities.swift
 $s14Differentiator0A5ErrorOMa
 $s14Differentiator0A5ErrorOwui
 $s14Differentiator0A5ErrorOwup
@@ -819,7 +819,7 @@ _symbolic Say14Differentiator8ItemPathVG
 _symbolic Say14Differentiator8ItemPathV4from_AC2totG
 _$s14Differentiator9ChangesetVMF
 _$sS2iSzsWL
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/Changeset.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/Changeset.swift
 $s14Differentiator9ChangesetVMa
 $s14Differentiator9ChangesetVwst
 $s14Differentiator9ChangesetVwet
@@ -900,7 +900,7 @@ _$s14Differentiator22AnimatableSectionModelVMF
 _symbolic 14Differentiator22AnimatableSectionModelV
 _$s14Differentiator22AnimatableSectionModelVyxq_GAA0cD4TypeAAMA
 _$s14Differentiator22AnimatableSectionModelVyxq_GAA16IdentifiableTypeAAMA
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/AnimatableSectionModel.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/AnimatableSectionModel.swift
 $s14Differentiator22AnimatableSectionModelVwst
 $s14Differentiator22AnimatableSectionModelVwet
 $s14Differentiator22AnimatableSectionModelVwta
@@ -932,7 +932,7 @@ _$s14Differentiator8ItemPathVWV
 _$s14Differentiator8ItemPathVMf
 _symbolic _____ 14Differentiator8ItemPathV
 _$s14Differentiator8ItemPathVMF
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/ItemPath.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/ItemPath.swift
 $s14Differentiator8ItemPathVMa
 $s14Differentiator8ItemPathVwst
 $s14Differentiator8ItemPathVwet
@@ -940,7 +940,7 @@ $s14Differentiator8ItemPathVSHAASQWb
 $s14Differentiator8ItemPathVACSQAAWl
 itemIndex.get
 sectionIndex.get
-/Users/pepe/Documents/Skeleton/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/AnimatableSectionModelType+ItemPath.swift
+/Users/pepe/Documents/RxSkeleton/Carthage/Carthage/Checkouts/RxDataSources/Sources/Differentiator/AnimatableSectionModelType+ItemPath.swift
 Apple clang version 11.0.0 (clang-1100.0.33.16)
 /Users/pepe/Library/Caches/org.carthage.CarthageKit/DerivedData/11.3_11C29/RxDataSources/4.0.1/Build/Intermediates.noindex/ArchiveIntermediates/Differentiator/IntermediateBuildFilesPath/RxDataSources.build/Release-watchos/Differentiator.build/DerivedSources/Differentiator_vers.c
 _swift_getFunctionReplacement50

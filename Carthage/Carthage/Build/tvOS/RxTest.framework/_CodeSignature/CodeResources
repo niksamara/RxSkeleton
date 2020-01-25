@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/RxTest.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		isitRpKcebvVtP+KRMF5E/IvWwE=
+		Hco7tRJcTQ2Pc8KHYjMNSbv7/2g=
 		</data>
 		<key>Modules/RxTest.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/RxTest.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		isitRpKcebvVtP+KRMF5E/IvWwE=
+		Hco7tRJcTQ2Pc8KHYjMNSbv7/2g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,11 +61,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			isitRpKcebvVtP+KRMF5E/IvWwE=
+			Hco7tRJcTQ2Pc8KHYjMNSbv7/2g=
 			</data>
 			<key>hash2</key>
 			<data>
-			jc5LhI+htWnj5Cp98WX62r8ruuVY2LArO9U50LqpA2Y=
+			7qsJi0VfcNCz2oM/k3/zHUBdqhnXouq9Rg2+7HeuiTs=
 			</data>
 		</dict>
 		<key>Modules/RxTest.swiftmodule/x86_64.swiftdoc</key>
@@ -83,11 +83,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			isitRpKcebvVtP+KRMF5E/IvWwE=
+			Hco7tRJcTQ2Pc8KHYjMNSbv7/2g=
 			</data>
 			<key>hash2</key>
 			<data>
-			jc5LhI+htWnj5Cp98WX62r8ruuVY2LArO9U50LqpA2Y=
+			7qsJi0VfcNCz2oM/k3/zHUBdqhnXouq9Rg2+7HeuiTs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

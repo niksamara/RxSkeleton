@@ -5,19 +5,19 @@
   "watchOS" : [
     {
       "name" : "Differentiator",
-      "hash" : "5f9467ba67314b7516f695779db7a90bbd0b30003469b4b283f73e4c93654097",
+      "hash" : "8ecc48a6bd1136ed3394cfe5ff18260396f2133048351b965d7c35b279598eb8",
       "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
     }
   ],
   "tvOS" : [
     {
-      "name" : "RxDataSources",
-      "hash" : "51800baab228ffeba7e42996fc0f27167390d95d478c3d4f36a4a088d5de4d73",
+      "name" : "Differentiator",
+      "hash" : "bfeca7fc359b93bfcd15426122bff35027791cc24e56ab658f57e56f3e62b44e",
       "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
     },
     {
-      "name" : "Differentiator",
-      "hash" : "968991dca551a51a2ddb3bd3c064aa81e82a9531f41bfb2dbda63aa2932ffe9c",
+      "name" : "RxDataSources",
+      "hash" : "a37928baa116aae60814ab2974c6e9819f76b8ed02952f52ac0c7571665854c3",
       "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
     }
   ],
@@ -25,12 +25,12 @@
   "iOS" : [
     {
       "name" : "Differentiator",
-      "hash" : "e5f9c5e19272cd4f5178fcfda67ec11082e8d80adc3968442997584ab5124286",
+      "hash" : "ac558064d927d390df4784f5eece0c4bf28338146fe6c01d6c79a5d1b0eac5d4",
       "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
     },
     {
       "name" : "RxDataSources",
-      "hash" : "abb89b1e961d61f02bf330381649a250c05fe078107d4748a1624559fb7f429e",
+      "hash" : "f10a885e5f91477ed168ce3ce70695fd1880cc16bb31ffedf387a22c55c332f9",
       "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
     }
   ]

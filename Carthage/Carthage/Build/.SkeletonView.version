@@ -8,7 +8,7 @@
   "tvOS" : [
     {
       "name" : "SkeletonView",
-      "hash" : "74e293035e2c0b11cf00933f4f5fcf881ad240c7130016d06b8e819e7674ac5a",
+      "hash" : "8bb16f125c6a49bfbb79b03db551c3f89de7ba11c79784eea4523f5e35107534",
       "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
     }
   ],
@@ -16,7 +16,7 @@
   "iOS" : [
     {
       "name" : "SkeletonView",
-      "hash" : "05fc674556d62b80de86966d6aa4de1cf206fc5d93852f2817b39905ff422e31",
+      "hash" : "daa10959336729312a0143604d28714bca11a184dc88dcbb0127de18a927efc2",
       "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
     }
   ]
