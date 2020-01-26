@@ -2,9 +2,11 @@
 
 As you can see, when using RxDataSources, we can not just use SkeletonView together, so I wrote this code to support for using SkeletonView with RxDataSources.
 
+UPD fixed error with selecting items
+
 # Installation
 
-pod 'RxSkeleton'
+pod 'RxSkeleton'(Cocoa Pods are not supported)
 
 # Screenshot
 
