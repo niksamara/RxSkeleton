@@ -39,7 +39,19 @@
 		B116118F23DCCF3E00D7A8C3 /* UICollectionView+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = B116109F23DCC40F00D7A8C3 /* UICollectionView+Rx.swift */; };
 		B116119023DCCF3E00D7A8C3 /* UITableView+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = B11610A323DCC40F00D7A8C3 /* UITableView+Rx.swift */; };
 		B116123623DD19AC00D7A8C3 /* Cartfile in Resources */ = {isa = PBXBuildFile; fileRef = B116123523DD19AC00D7A8C3 /* Cartfile */; };
-		B116124E23DD9BC200D7A8C3 /* RxSkeleton.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116108E23DCC3D700D7A8C3 /* RxSkeleton.framework */; };
+		B168B4D623DDEA18001C4388 /* RxCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B168B4D023DDEA18001C4388 /* RxCocoa.framework */; };
+		B168B4D823DDEA18001C4388 /* Differentiator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B168B4D123DDEA18001C4388 /* Differentiator.framework */; };
+		B168B4DA23DDEA18001C4388 /* RxDataSources.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B168B4D223DDEA18001C4388 /* RxDataSources.framework */; };
+		B168B4DC23DDEA18001C4388 /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B168B4D323DDEA18001C4388 /* RxSwift.framework */; };
+		B168B4DE23DDEA18001C4388 /* SkeletonView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B168B4D423DDEA18001C4388 /* SkeletonView.framework */; };
+		B168B4E023DDEA18001C4388 /* RxRelay.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B168B4D523DDEA18001C4388 /* RxRelay.framework */; };
+		B168B4E323DDEA31001C4388 /* Differentiator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B168B4D123DDEA18001C4388 /* Differentiator.framework */; };
+		B168B4E523DDEA31001C4388 /* RxCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B168B4D023DDEA18001C4388 /* RxCocoa.framework */; };
+		B168B4E723DDEA31001C4388 /* RxDataSources.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B168B4D223DDEA18001C4388 /* RxDataSources.framework */; };
+		B168B4E923DDEA31001C4388 /* RxRelay.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B168B4D523DDEA18001C4388 /* RxRelay.framework */; };
+		B168B4EB23DDEA31001C4388 /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B168B4D323DDEA18001C4388 /* RxSwift.framework */; };
+		B168B4ED23DDEA31001C4388 /* SkeletonView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B168B4D423DDEA18001C4388 /* SkeletonView.framework */; };
+		B168B4F123DDEA31001C4388 /* SnapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B168B4F023DDEA31001C4388 /* SnapKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +81,13 @@
 		B11610CF23DCC61F00D7A8C3 /* emoticon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = emoticon.png; sourceTree = "<group>"; };
 		B11610D123DCC65800D7A8C3 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		B116123523DD19AC00D7A8C3 /* Cartfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Cartfile; sourceTree = "<group>"; };
+		B168B4D023DDEA18001C4388 /* RxCocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxCocoa.framework; path = Carthage/Carthage/Build/iOS/RxCocoa.framework; sourceTree = "<group>"; };
+		B168B4D123DDEA18001C4388 /* Differentiator.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Differentiator.framework; path = Carthage/Carthage/Build/iOS/Differentiator.framework; sourceTree = "<group>"; };
+		B168B4D223DDEA18001C4388 /* RxDataSources.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxDataSources.framework; path = Carthage/Carthage/Build/iOS/RxDataSources.framework; sourceTree = "<group>"; };
+		B168B4D323DDEA18001C4388 /* RxSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxSwift.framework; path = Carthage/Carthage/Build/iOS/RxSwift.framework; sourceTree = "<group>"; };
+		B168B4D423DDEA18001C4388 /* SkeletonView.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SkeletonView.framework; path = Carthage/Carthage/Build/iOS/SkeletonView.framework; sourceTree = "<group>"; };
+		B168B4D523DDEA18001C4388 /* RxRelay.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxRelay.framework; path = Carthage/Carthage/Build/iOS/RxRelay.framework; sourceTree = "<group>"; };
+		B168B4F023DDEA31001C4388 /* SnapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SnapKit.framework; path = Carthage/Carthage/Build/iOS/SnapKit.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +95,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B168B4DE23DDEA18001C4388 /* SkeletonView.framework in Frameworks */,
+				B168B4DC23DDEA18001C4388 /* RxSwift.framework in Frameworks */,
+				B168B4E023DDEA18001C4388 /* RxRelay.framework in Frameworks */,
+				B168B4DA23DDEA18001C4388 /* RxDataSources.framework in Frameworks */,
+				B168B4D823DDEA18001C4388 /* Differentiator.framework in Frameworks */,
+				B168B4D623DDEA18001C4388 /* RxCocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,7 +108,13 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B116124E23DD9BC200D7A8C3 /* RxSkeleton.framework in Frameworks */,
+				B168B4EB23DDEA31001C4388 /* RxSwift.framework in Frameworks */,
+				B168B4E923DDEA31001C4388 /* RxRelay.framework in Frameworks */,
+				B168B4ED23DDEA31001C4388 /* SkeletonView.framework in Frameworks */,
+				B168B4F123DDEA31001C4388 /* SnapKit.framework in Frameworks */,
+				B168B4E723DDEA31001C4388 /* RxDataSources.framework in Frameworks */,
+				B168B4E523DDEA31001C4388 /* RxCocoa.framework in Frameworks */,
+				B168B4E323DDEA31001C4388 /* Differentiator.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -166,6 +197,13 @@
 		B116124D23DD9BC200D7A8C3 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				B168B4F023DDEA31001C4388 /* SnapKit.framework */,
+				B168B4D123DDEA18001C4388 /* Differentiator.framework */,
+				B168B4D023DDEA18001C4388 /* RxCocoa.framework */,
+				B168B4D223DDEA18001C4388 /* RxDataSources.framework */,
+				B168B4D523DDEA18001C4388 /* RxRelay.framework */,
+				B168B4D323DDEA18001C4388 /* RxSwift.framework */,
+				B168B4D423DDEA18001C4388 /* SkeletonView.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -293,12 +331,12 @@
 			inputFileListPaths = (
 			);
 			inputPaths = (
-				"$(SRCROOT)/Carthage/Build/iOS/Differentiator.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/RxSwift.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/SkeletonView.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/RxCocoa.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/RxDataSources.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/RxRelay.framework",
+				"$(SRCROOT)/Carthage/Carthage/Build/iOS/Differentiator.framework",
+				"$(SRCROOT)/Carthage/Carthage/Build/iOS/RxSwift.framework",
+				"$(SRCROOT)/Carthage/Carthage/Build/iOS/SkeletonView.framework",
+				"$(SRCROOT)/Carthage/Carthage/Build/iOS/RxCocoa.framework",
+				"$(SRCROOT)/Carthage/Carthage/Build/iOS/RxDataSources.framework",
+				"$(SRCROOT)/Carthage/Carthage/Build/iOS/RxRelay.framework",
 			);
 			name = Carthage;
 			outputFileListPaths = (
@@ -323,13 +361,13 @@
 			inputFileListPaths = (
 			);
 			inputPaths = (
-				"$(SRCROOT)/Carthage/Build/iOS/Differentiator.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/RxSwift.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/SkeletonView.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/RxCocoa.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/SnapKit.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/RxDataSources.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/RxRelay.framework",
+				"$(SRCROOT)/Carthage/Carthage/Build/iOS/Differentiator.framework",
+				"$(SRCROOT)/Carthage/Carthage/Build/iOS/RxSwift.framework",
+				"$(SRCROOT)/Carthage/Carthage/Build/iOS/SkeletonView.framework",
+				"$(SRCROOT)/Carthage/Carthage/Build/iOS/RxCocoa.framework",
+				"$(SRCROOT)/Carthage/Carthage/Build/iOS/SnapKit.framework",
+				"$(SRCROOT)/Carthage/Carthage/Build/iOS/RxDataSources.framework",
+				"$(SRCROOT)/Carthage/Carthage/Build/iOS/RxRelay.framework",
 			);
 			name = Carthage;
 			outputFileListPaths = (
@@ -438,11 +476,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-				);
+				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -508,11 +542,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-				);
+				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -546,11 +576,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
-				);
+				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)/Carthage/Carthage/Build/iOS";
 				INFOPLIST_FILE = RxSkeleton/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -581,11 +607,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
-				);
+				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)/Carthage/Carthage/Build/iOS";
 				INFOPLIST_FILE = RxSkeleton/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -610,11 +632,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = QGN3X8H5QT;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
-				);
+				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)/Carthage/Carthage/Build/iOS";
 				INFOPLIST_FILE = Example/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -635,11 +653,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = QGN3X8H5QT;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
-				);
+				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)/Carthage/Carthage/Build/iOS";
 				INFOPLIST_FILE = Example/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
