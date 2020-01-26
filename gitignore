@@ -3,5 +3,5 @@
 /*.xcodeproj
 **/xcuserdata
 **/xcshareddata
-Carthage/Carthage
+Carthage/Carthage/*
 Carthage/Cartfile.resolved
