@@ -50,25 +50,10 @@
 		B116118F23DCCF3E00D7A8C3 /* UICollectionView+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = B116109F23DCC40F00D7A8C3 /* UICollectionView+Rx.swift */; };
 		B116119023DCCF3E00D7A8C3 /* UITableView+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = B11610A323DCC40F00D7A8C3 /* UITableView+Rx.swift */; };
 		B116119223DCCFAA00D7A8C3 /* Differentiator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116119123DCCFA900D7A8C3 /* Differentiator.framework */; };
-		B116119323DCCFAA00D7A8C3 /* Differentiator.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B116119123DCCFA900D7A8C3 /* Differentiator.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		B116119523DCCFBA00D7A8C3 /* Differentiator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116119123DCCFA900D7A8C3 /* Differentiator.framework */; };
 		B116119723DCD01200D7A8C3 /* RxRelay.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116119623DCD01200D7A8C3 /* RxRelay.framework */; };
 		B116119823DCD04000D7A8C3 /* RxRelay.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116119623DCD01200D7A8C3 /* RxRelay.framework */; };
 /* End PBXBuildFile section */
-
-/* Begin PBXCopyFilesBuildPhase section */
-		B116119423DCCFAA00D7A8C3 /* Embed Frameworks */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 10;
-			files = (
-				B116119323DCCFAA00D7A8C3 /* Differentiator.framework in Embed Frameworks */,
-			);
-			name = "Embed Frameworks";
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		B116108E23DCC3D700D7A8C3 /* RxSkeleton.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RxSkeleton.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -247,7 +232,6 @@
 				B116108B23DCC3D700D7A8C3 /* Frameworks */,
 				B116108C23DCC3D700D7A8C3 /* Resources */,
 				B116117623DCCD7500D7A8C3 /* Carthage */,
-				B116119423DCCFAA00D7A8C3 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -508,13 +492,14 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -565,12 +550,13 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
