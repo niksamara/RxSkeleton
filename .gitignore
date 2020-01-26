@@ -1,7 +1,8 @@
 .DS_Store
+Carthage/Carthage
+Carthage/Cartfile.resolved
 /.build
 /*.xcodeproj
 **/xcuserdata
 **/xcshareddata
-Carthage/Carthage/*
-Carthage/Cartfile.resolved
+.idea
