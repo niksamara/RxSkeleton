@@ -1,0 +1,23 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "name" : "SkeletonView",
+      "hash" : "f9ac723748695293ed41e92f534c3264bba56778637b9df2e6a085c66b99e538",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ],
+  "commitish" : "1.8.2",
+  "iOS" : [
+    {
+      "name" : "SkeletonView",
+      "hash" : "7aa7837d1511fcb7736ae05b58a7554f94d29e86a8e4a386f9c972eb2971e8f9",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ]
+}

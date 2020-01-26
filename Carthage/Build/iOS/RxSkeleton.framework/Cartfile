@@ -1,0 +1,4 @@
+github "ReactiveX/RxSwift" == 5.0.1
+github "RxSwiftCommunity/RxDataSources" == 4.0.1
+github "Juanpe/SkeletonView" == 1.8.2
+github "SnapKit/SnapKit" == 5.0.1

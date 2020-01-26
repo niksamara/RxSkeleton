@@ -1,7 +1,3 @@
 .DS_Store
 /.build
-/*.xcodeproj
-**/xcuserdata
-**/xcshareddata
-Carthage/Carthage
-Carthage/Cartfile.resolved
+Carthage/*

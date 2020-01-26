@@ -28,17 +28,6 @@
 		B11610CE23DCC5FE00D7A8C3 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B11610CD23DCC5FE00D7A8C3 /* CollectionViewCell.swift */; };
 		B11610D023DCC61F00D7A8C3 /* emoticon.png in Resources */ = {isa = PBXBuildFile; fileRef = B11610CF23DCC61F00D7A8C3 /* emoticon.png */; };
 		B11610D223DCC65800D7A8C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B11610D123DCC65800D7A8C3 /* Main.storyboard */; };
-		B11610D723DCC81400D7A8C3 /* Cartfile in Resources */ = {isa = PBXBuildFile; fileRef = B11610D623DCC81400D7A8C3 /* Cartfile */; };
-		B11610D823DCC81400D7A8C3 /* Cartfile in Resources */ = {isa = PBXBuildFile; fileRef = B11610D623DCC81400D7A8C3 /* Cartfile */; };
-		B116117E23DCCE6E00D7A8C3 /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116117923DCCE6E00D7A8C3 /* RxSwift.framework */; };
-		B116117F23DCCE6E00D7A8C3 /* RxCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116117A23DCCE6E00D7A8C3 /* RxCocoa.framework */; };
-		B116118023DCCE6E00D7A8C3 /* RxDataSources.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116117B23DCCE6E00D7A8C3 /* RxDataSources.framework */; };
-		B116118123DCCE6F00D7A8C3 /* SkeletonView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116117C23DCCE6E00D7A8C3 /* SkeletonView.framework */; };
-		B116118223DCCE7F00D7A8C3 /* RxCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116117A23DCCE6E00D7A8C3 /* RxCocoa.framework */; };
-		B116118323DCCE7F00D7A8C3 /* RxDataSources.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116117B23DCCE6E00D7A8C3 /* RxDataSources.framework */; };
-		B116118423DCCE7F00D7A8C3 /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116117923DCCE6E00D7A8C3 /* RxSwift.framework */; };
-		B116118523DCCE7F00D7A8C3 /* SkeletonView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116117C23DCCE6E00D7A8C3 /* SkeletonView.framework */; };
-		B116118623DCCE7F00D7A8C3 /* SnapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116117823DCCE6E00D7A8C3 /* SnapKit.framework */; };
 		B116118723DCCF3900D7A8C3 /* ObservableType+Ex.swift in Sources */ = {isa = PBXBuildFile; fileRef = B116109C23DCC40F00D7A8C3 /* ObservableType+Ex.swift */; };
 		B116118823DCCF3D00D7A8C3 /* RxCollectionViewSkeletonedAnimatedDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = B116109B23DCC40F00D7A8C3 /* RxCollectionViewSkeletonedAnimatedDataSource.swift */; };
 		B116118923DCCF3D00D7A8C3 /* RxCollectionViewSkeletonedDataSourceProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = B11610A023DCC40F00D7A8C3 /* RxCollectionViewSkeletonedDataSourceProxy.swift */; };
@@ -49,10 +38,8 @@
 		B116118E23DCCF3E00D7A8C3 /* RxTableViewSkeletonedReloadDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = B11610A223DCC40F00D7A8C3 /* RxTableViewSkeletonedReloadDataSource.swift */; };
 		B116118F23DCCF3E00D7A8C3 /* UICollectionView+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = B116109F23DCC40F00D7A8C3 /* UICollectionView+Rx.swift */; };
 		B116119023DCCF3E00D7A8C3 /* UITableView+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = B11610A323DCC40F00D7A8C3 /* UITableView+Rx.swift */; };
-		B116119223DCCFAA00D7A8C3 /* Differentiator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116119123DCCFA900D7A8C3 /* Differentiator.framework */; };
-		B116119523DCCFBA00D7A8C3 /* Differentiator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116119123DCCFA900D7A8C3 /* Differentiator.framework */; };
-		B116119723DCD01200D7A8C3 /* RxRelay.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116119623DCD01200D7A8C3 /* RxRelay.framework */; };
-		B116119823DCD04000D7A8C3 /* RxRelay.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116119623DCD01200D7A8C3 /* RxRelay.framework */; };
+		B116123623DD19AC00D7A8C3 /* Cartfile in Resources */ = {isa = PBXBuildFile; fileRef = B116123523DD19AC00D7A8C3 /* Cartfile */; };
+		B116124E23DD9BC200D7A8C3 /* RxSkeleton.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B116108E23DCC3D700D7A8C3 /* RxSkeleton.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -81,14 +68,7 @@
 		B11610CD23DCC5FE00D7A8C3 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 		B11610CF23DCC61F00D7A8C3 /* emoticon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = emoticon.png; sourceTree = "<group>"; };
 		B11610D123DCC65800D7A8C3 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		B11610D623DCC81400D7A8C3 /* Cartfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Cartfile; path = Carthage/Cartfile; sourceTree = "<group>"; };
-		B116117823DCCE6E00D7A8C3 /* SnapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SnapKit.framework; path = Carthage/Carthage/Build/iOS/SnapKit.framework; sourceTree = "<group>"; };
-		B116117923DCCE6E00D7A8C3 /* RxSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxSwift.framework; path = Carthage/Carthage/Build/iOS/RxSwift.framework; sourceTree = "<group>"; };
-		B116117A23DCCE6E00D7A8C3 /* RxCocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxCocoa.framework; path = Carthage/Carthage/Build/iOS/RxCocoa.framework; sourceTree = "<group>"; };
-		B116117B23DCCE6E00D7A8C3 /* RxDataSources.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxDataSources.framework; path = Carthage/Carthage/Build/iOS/RxDataSources.framework; sourceTree = "<group>"; };
-		B116117C23DCCE6E00D7A8C3 /* SkeletonView.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SkeletonView.framework; path = Carthage/Carthage/Build/iOS/SkeletonView.framework; sourceTree = "<group>"; };
-		B116119123DCCFA900D7A8C3 /* Differentiator.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Differentiator.framework; path = Carthage/Carthage/Build/iOS/Differentiator.framework; sourceTree = "<group>"; };
-		B116119623DCD01200D7A8C3 /* RxRelay.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxRelay.framework; path = Carthage/Carthage/Build/iOS/RxRelay.framework; sourceTree = "<group>"; };
+		B116123523DD19AC00D7A8C3 /* Cartfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Cartfile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,12 +76,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B116117E23DCCE6E00D7A8C3 /* RxSwift.framework in Frameworks */,
-				B116119223DCCFAA00D7A8C3 /* Differentiator.framework in Frameworks */,
-				B116117F23DCCE6E00D7A8C3 /* RxCocoa.framework in Frameworks */,
-				B116119823DCD04000D7A8C3 /* RxRelay.framework in Frameworks */,
-				B116118023DCCE6E00D7A8C3 /* RxDataSources.framework in Frameworks */,
-				B116118123DCCE6F00D7A8C3 /* SkeletonView.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -109,13 +83,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B116118223DCCE7F00D7A8C3 /* RxCocoa.framework in Frameworks */,
-				B116118323DCCE7F00D7A8C3 /* RxDataSources.framework in Frameworks */,
-				B116118423DCCE7F00D7A8C3 /* RxSwift.framework in Frameworks */,
-				B116119523DCCFBA00D7A8C3 /* Differentiator.framework in Frameworks */,
-				B116118523DCCE7F00D7A8C3 /* SkeletonView.framework in Frameworks */,
-				B116119723DCD01200D7A8C3 /* RxRelay.framework in Frameworks */,
-				B116118623DCCE7F00D7A8C3 /* SnapKit.framework in Frameworks */,
+				B116124E23DD9BC200D7A8C3 /* RxSkeleton.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -125,15 +93,15 @@
 		B116108423DCC3D700D7A8C3 = {
 			isa = PBXGroup;
 			children = (
-				B11610D623DCC81400D7A8C3 /* Cartfile */,
 				B11610CB23DCC57C00D7A8C3 /* README.md */,
 				B11610C923DCC53600D7A8C3 /* LICENSE */,
+				B116123523DD19AC00D7A8C3 /* Cartfile */,
 				B11610C623DCC51100D7A8C3 /* preview */,
 				B116109923DCC40200D7A8C3 /* Sources */,
 				B116109023DCC3D700D7A8C3 /* RxSkeleton */,
 				B11610B323DCC4A800D7A8C3 /* Example */,
 				B116108F23DCC3D700D7A8C3 /* Products */,
-				B116117723DCCE6E00D7A8C3 /* Frameworks */,
+				B116124D23DD9BC200D7A8C3 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -195,16 +163,9 @@
 			path = preview;
 			sourceTree = "<group>";
 		};
-		B116117723DCCE6E00D7A8C3 /* Frameworks */ = {
+		B116124D23DD9BC200D7A8C3 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				B116119623DCD01200D7A8C3 /* RxRelay.framework */,
-				B116119123DCCFA900D7A8C3 /* Differentiator.framework */,
-				B116117A23DCCE6E00D7A8C3 /* RxCocoa.framework */,
-				B116117B23DCCE6E00D7A8C3 /* RxDataSources.framework */,
-				B116117923DCCE6E00D7A8C3 /* RxSwift.framework */,
-				B116117C23DCCE6E00D7A8C3 /* SkeletonView.framework */,
-				B116117823DCCE6E00D7A8C3 /* SnapKit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -231,7 +192,7 @@
 				B116108A23DCC3D700D7A8C3 /* Sources */,
 				B116108B23DCC3D700D7A8C3 /* Frameworks */,
 				B116108C23DCC3D700D7A8C3 /* Resources */,
-				B116117623DCCD7500D7A8C3 /* Carthage */,
+				B116124F23DD9F4500D7A8C3 /* Carthage */,
 			);
 			buildRules = (
 			);
@@ -249,7 +210,7 @@
 				B11610AE23DCC4A800D7A8C3 /* Sources */,
 				B11610AF23DCC4A800D7A8C3 /* Frameworks */,
 				B11610B023DCC4A800D7A8C3 /* Resources */,
-				B11610D923DCCB5400D7A8C3 /* Carthage */,
+				B116125023DD9FCE00D7A8C3 /* Carthage */,
 			);
 			buildRules = (
 			);
@@ -305,7 +266,7 @@
 			files = (
 				B11610CC23DCC57C00D7A8C3 /* README.md in Resources */,
 				B11610CA23DCC53600D7A8C3 /* LICENSE in Resources */,
-				B11610D723DCC81400D7A8C3 /* Cartfile in Resources */,
+				B116123623DD19AC00D7A8C3 /* Cartfile in Resources */,
 				B11610C823DCC52900D7A8C3 /* snapshot.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -314,7 +275,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B11610D823DCC81400D7A8C3 /* Cartfile in Resources */,
 				B11610C123DCC4A900D7A8C3 /* LaunchScreen.storyboard in Resources */,
 				B11610D023DCC61F00D7A8C3 /* emoticon.png in Resources */,
 				B11610BE23DCC4A900D7A8C3 /* Assets.xcassets in Resources */,
@@ -325,7 +285,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		B11610D923DCCB5400D7A8C3 /* Carthage */ = {
+		B116124F23DD9F4500D7A8C3 /* Carthage */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -333,31 +293,29 @@
 			inputFileListPaths = (
 			);
 			inputPaths = (
-				"$(SRCROOT)/Carthage/Carthage/Build/iOS/RxSwift.framework",
-				"$(SRCROOT)/Carthage/Carthage/Build/iOS/SnapKit.framework",
-				"$(SRCROOT)/Carthage/Carthage/Build/iOS/RxCocoa.framework",
-				"$(SRCROOT)/Carthage/Carthage/Build/iOS/RxDataSources.framework",
-				"$(SRCROOT)/Carthage/Carthage/Build/iOS/SkeletonView.framework",
-				"$(SRCROOT)/Carthage/Carthage/Build/iOS/Differentiator.framework",
-				"$(SRCROOT)/Carthage/Carthage/Build/iOS/RxRelay.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/Differentiator.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/RxSwift.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/SkeletonView.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/RxCocoa.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/RxDataSources.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/RxRelay.framework",
 			);
 			name = Carthage;
 			outputFileListPaths = (
 			);
 			outputPaths = (
+				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/Differentiator.framework",
 				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/RxSwift.framework",
-				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/SnapKit.framework",
+				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/SkeletonView.framework",
 				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/RxCocoa.framework",
 				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/RxDataSources.framework",
-				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/SkeletonView.framework",
-				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/Differentiator.framework",
 				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/RxRelay.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "/usr/local/bin/carthage copy-frameworks\n";
 		};
-		B116117623DCCD7500D7A8C3 /* Carthage */ = {
+		B116125023DD9FCE00D7A8C3 /* Carthage */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -365,22 +323,24 @@
 			inputFileListPaths = (
 			);
 			inputPaths = (
-				"$(SRCROOT)/Carthage/Carthage/Build/iOS/RxSwift.framework",
-				"$(SRCROOT)/Carthage/Carthage/Build/iOS/RxCocoa.framework",
-				"$(SRCROOT)/Carthage/Carthage/Build/iOS/RxDataSources.framework",
-				"$(SRCROOT)/Carthage/Carthage/Build/iOS/SkeletonView.framework",
-				"$(SRCROOT)/Carthage/Carthage/Build/iOS/Differentiator.framework",
-				"$(SRCROOT)/Carthage/Carthage/Build/iOS/RxRelay.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/Differentiator.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/RxSwift.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/SkeletonView.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/RxCocoa.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/SnapKit.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/RxDataSources.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/RxRelay.framework",
 			);
 			name = Carthage;
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/RxSwift.framework",
-				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/RxCocoa.framework",
-				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/RxDataSources.framework",
-				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/SkeletonView.framework",
 				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/Differentiator.framework",
+				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/RxSwift.framework",
+				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/SkeletonView.framework",
+				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/RxCocoa.framework",
+				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/SnapKit.framework",
+				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/RxDataSources.framework",
 				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/RxRelay.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -478,6 +438,11 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -500,6 +465,7 @@
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
+				VALID_ARCHS = "i386 x86_64";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -542,6 +508,11 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -558,6 +529,7 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				VALIDATE_PRODUCT = YES;
+				VALID_ARCHS = "i386 x86_64";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -566,16 +538,18 @@
 		B116109723DCC3D700D7A8C3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = QGN3X8H5QT;
+				DEVELOPMENT_TEAM = "";
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				FRAMEWORK_SEARCH_PATHS = (
-					"\"$(PROJECT_DIR)/Carthage/Carthage/Build/iOS/\"",
-					"$(PROJECT_DIR)/Carthage/Carthage/Build/iOS",
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 				);
 				INFOPLIST_FILE = RxSkeleton/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -588,25 +562,29 @@
 				PRODUCT_BUNDLE_IDENTIFIER = ru.petrenkov.RxSkeleton;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
+				VALID_ARCHS = "i386 x86_64";
 			};
 			name = Debug;
 		};
 		B116109823DCC3D700D7A8C3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = QGN3X8H5QT;
+				DEVELOPMENT_TEAM = "";
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				FRAMEWORK_SEARCH_PATHS = (
-					"\"$(PROJECT_DIR)/Carthage/Carthage/Build/iOS/\"",
-					"$(PROJECT_DIR)/Carthage/Carthage/Build/iOS",
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 				);
 				INFOPLIST_FILE = RxSkeleton/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -619,8 +597,10 @@
 				PRODUCT_BUNDLE_IDENTIFIER = ru.petrenkov.RxSkeleton;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
+				VALID_ARCHS = "i386 x86_64";
 			};
 			name = Release;
 		};
@@ -631,8 +611,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = QGN3X8H5QT;
 				FRAMEWORK_SEARCH_PATHS = (
-					"\"$(PROJECT_DIR)/Carthage/Carthage/Build/iOS/\"",
-					"$(PROJECT_DIR)/Carthage/Carthage/Build/iOS",
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 				);
 				INFOPLIST_FILE = Example/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -643,7 +624,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = ru.petrenkov.Example;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
+				VALID_ARCHS = "i386 x86_64";
 			};
 			name = Debug;
 		};
@@ -654,8 +636,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = QGN3X8H5QT;
 				FRAMEWORK_SEARCH_PATHS = (
-					"\"$(PROJECT_DIR)/Carthage/Carthage/Build/iOS/\"",
-					"$(PROJECT_DIR)/Carthage/Carthage/Build/iOS",
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 				);
 				INFOPLIST_FILE = Example/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -666,7 +649,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = ru.petrenkov.Example;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
+				VALID_ARCHS = "i386 x86_64";
 			};
 			name = Release;
 		};

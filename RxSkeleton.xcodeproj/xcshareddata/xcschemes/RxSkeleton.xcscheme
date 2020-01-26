@@ -40,6 +40,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "B116108D23DCC3D700D7A8C3"
+            BuildableName = "RxSkeleton.framework"
+            BlueprintName = "RxSkeleton"
+            ReferencedContainer = "container:RxSkeleton.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
